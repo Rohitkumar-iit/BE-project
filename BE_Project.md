@@ -80,8 +80,6 @@ The complete model was designed in SolidWorks, including:
 
   * Part files (.SLDPRT)
   * Assembly file (.SLDASM)
-* Project images
-* (Optional) Project report
 
 ---
 
