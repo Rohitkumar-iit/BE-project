@@ -94,6 +94,6 @@ The complete model was designed in SolidWorks, including:
 
 ## Author
 Rohit Kumar Singh
-BE (Mechanical Engineering)
-Sant Longowal Institute of Engineering and Technology,sangrur
-Year: 2017-2021
+*BE (Mechanical Engineering)
+*Sant Longowal Institute of Engineering and Technology,sangrur
+*Year: 2017-2021
